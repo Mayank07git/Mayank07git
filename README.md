@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank07git&label=Profile%20views&color=0e75b6&style=flat" alt="mayank07git" /> </p>
 
-- 🔭 I’m currently working on a project which is **MindHub AI**
+- 🔭 I’m currently working on a project which is **MindHub AI.**
 
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://mayank07git.github.io/Mayank-Portfolio/](https://mayank07git.github.io/Mayank-Portfolio/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development.**
 
 - 📫 How to reach me **ms6586864@gmail.com**
 
-- ⚡ Fun fact- **I think I am funny**
+- ⚡ Fun fact- **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
