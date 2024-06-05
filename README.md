@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a project which is **MindHub AI.**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Redux.**
 
 - 👨‍💻 All of my projects are available at [https://mayank07git.github.io/Mayank-Portfolio/](https://mayank07git.github.io/Mayank-Portfolio/)
 
