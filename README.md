@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank07git&label=Profile%20views&color=0e75b6&style=flat" alt="mayank07git" /> </p>
 
-- 🔭 I’m currently working on a project which is **MindHub AI.**
+- 🔭 I’m currently working as a **Frontend Web Developer Intern** in **Techlive Solutions,Mohali.**
 
 - 🌱 I’m currently learning **Redux.**
 
