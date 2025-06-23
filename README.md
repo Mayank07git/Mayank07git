@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Frontend Web Developer** at **GreenHonchos, Noida.**
 
-- 🌱 I’m currently learning **Redux.**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mayank07git.github.io/Mayank-Portfolio/](https://mayank07git.github.io/Mayank-Portfolio/)
 
