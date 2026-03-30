@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank07git&label=Profile%20views&color=0e75b6&style=flat" alt="mayank07git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank07git" alt="mayank07git" /></a> </p>
-
 - 🔭 I’m currently working on **building scalable and high-performance web apps using modern frontend techs & tools.**
 
 - 🌱 I’m currently learning **Next.js, TypeScript and improving my skills in SSR and frontend architecture.**
